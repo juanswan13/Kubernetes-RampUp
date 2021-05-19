@@ -1,0 +1,26 @@
+site_name: Kubernetes Ramp-up
+repo_url: https://github.com/juanswan13/Kubernetes-RampUp
+repo_name: juanswan13/Kubernetes-RampUp
+
+theme:
+  favicon: assets/logo.png
+  name: material
+  palette:
+    primary: indigo
+    accent: deep purple
+  font:
+    text: Lato
+
+extra:
+    generator: false
+    social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/juanswan13/Kubernetes-RampUp
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: false
+
+nav:
+  - Home: index.md
+  - Linux Basic: linux_basics.md
