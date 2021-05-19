@@ -1,7 +1,6 @@
 # Kubernetes and the Need for Containers  
 
 Before starting this ramp-up we recommend to learn before the concept of containers, since kubernetes is a tool that helps you to orchestrate containers and for understanding kubernetes and performing the challenges that this ramp-up propose you'll need to know what containers are, why we use them and how they work. The next reading briefly overviews the topic.  
----  
 
 A container is a mini-virtual machine. It is small, as it does not have device drivers and all the other components of a regular virtual machine. Docker is by far the most popular container and it is written in Linux. Microsoft also has added containers to Windows as well, because they have become so popular.
 
