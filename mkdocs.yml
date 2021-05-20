@@ -23,4 +23,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Linux Basic: linux_basics.md
+  - The Need of Containers: kubernetes_components.md
+  - Kubernetes Onboarding: kubernetes_and_the_need_of_containers.md
+  - Kubernetes Components: kubernetes_components.md
+  - Deploy a Cluster: deploy_a_kubernetes_cluster.md
+  - Deploy an Application: deploy_application_in_k8s.md
