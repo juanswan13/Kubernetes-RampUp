@@ -7,10 +7,10 @@ For completing this chapter watch the following video:
 [![Alt text](https://img.youtube.com/vi/VnvRFRk_51k/0.jpg)](https://www.youtube.com/watch?v=VnvRFRk_51k)
 
 At the end of this chapter the student should be able to answer the following questions:
-- What is kubernetes ? 
-- What problems does Kubernetes solve ?
-- Why there's a need of an orchestration tool ?
-- What feature a orchestrator tool offers ?
-- How does a Kubernetes basic architecture looks like ?
-- Explain each of the components of the previous architecture
-- Basic concepts: Pods, Containers, Services. What is the role of each ?
+* What is kubernetes ? 
+* What problems does Kubernetes solve ?
+* Why there's a need of an orchestration tool ?
+* What feature a orchestrator tool offers ?
+* How does a Kubernetes basic architecture looks like ?
+* Explain each of the components of the previous architecture
+* Basic concepts: Pods, Containers, Services. What is the role of each ?

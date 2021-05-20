@@ -7,8 +7,8 @@ For completing this chapter you'll need to watch the following video:
 [![Alt text](https://img.youtube.com/vi/Krpb44XR0bk/0.jpg)](https://www.youtube.com/watch?v=Krpb44XR0bk)
 
 Important concetps of the chapter:
- - Kubernetes: Node and Pod
- - Kubernetes: Service and Ingress
- - Kubernetes: ConfigMap and Secret
- - Kubernetes: Volumes
- - Kubernetes: Deployment and StatefulSet
+ * Kubernetes: Node and Pod
+ * Kubernetes: Service and Ingress
+ * Kubernetes: ConfigMap and Secret
+ * Kubernetes: Volumes
+ * Kubernetes: Deployment and StatefulSet

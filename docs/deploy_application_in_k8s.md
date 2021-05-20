@@ -4,18 +4,18 @@ This chapter will address the deployment of our first application in a Kubernete
 
 At the end of this chapter you should be able to understand and deploy:
 
-- A Deployment
-- A Service
-- A LoadBalancer
-- An ingress
-- A Secret
-- A ConfigMap
-- A DB inside Kubernet
+* A Deployment
+* A Service
+* A LoadBalancer
+* An ingress
+* A Secret
+* A ConfigMap
+* A DB inside Kubernet
 
 Objetives: 
-- Deploy a Mongo DB in Kubernetes
-- Deploy Mongo Express in Kubernetes
-- Connect the Mongo Express to the Mongo DB using corectly Kubernetes Secrets
+* Deploy a Mongo DB in Kubernetes
+* Deploy Mongo Express in Kubernetes
+* Connect the Mongo Express to the Mongo DB using corectly Kubernetes Secrets
 
 If you need help and guidance on this process you can watch the following video from 1:16:16 to 1:46:16
 
