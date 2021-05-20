@@ -10,4 +10,5 @@ These were dark times, friend.
 
 Then came a solution. Containers and orchestrators.
 
+---
 This ramp-up is presented with a theoretical and a practical component that will help to undestand what is kubernetes, why is it useful, why people is using kubernetes in the industry, how is kubernetes componed and how does it works. We highly recomend that if you don't know about containers, learn about it first before coming to this rampup.
